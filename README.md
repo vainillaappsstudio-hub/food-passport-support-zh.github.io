@@ -57,4 +57,4 @@ Food Passport 不会出售您的个人信息。某些信息可能会与第三方
 
 ## 隐私政策
 
-您可以在[此处](../politica-privacidad/privacy_policy_zh.md)阅读我们完整的隐私政策。
+您可以在[此处](https://vainillaappsstudio-hub.github.io/food-passport-privacy-policy-zh.github.io/)阅读我们完整的隐私政策。
